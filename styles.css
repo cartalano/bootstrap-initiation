@@ -1,0 +1,7 @@
+.box {
+    background-color: rgb(238, 185, 238);
+    border: 1px solid;
+    min height: 50px;
+    font size: 2rem;
+    border-radius: 30px;
+}
