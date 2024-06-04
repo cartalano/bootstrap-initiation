@@ -6,6 +6,8 @@
     border-radius: 30px;
 }
 
+
+
 @media (min-width: 576px) {
     body::before {
         content: "SM";
